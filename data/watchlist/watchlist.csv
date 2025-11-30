@@ -1,0 +1,4 @@
+entity_id,risk_level,notes
+user_003,HIGH,Known association with offshore shelling
+Cayman Islands,MED,Tax Haven Jurisdiction
+North Korea,CRITICAL,Sanctioned Jurisdiction
